@@ -33,8 +33,7 @@ This is a simple Social Media API built using Node.js and Express. The API provi
    ```bash
    git clone (https://github.com/Faizanamd/Social-Media-API)https://github.com/Faizanamd/Social-Media-API
 
-
-   ## API Endpoints
+### API Endpoints
 
 ### Users
 
