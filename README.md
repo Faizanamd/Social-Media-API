@@ -18,7 +18,6 @@ This is a simple Social Media API built using Node.js and Express. The API provi
   - [Friendships](#friendships)
   - [Likes](#likes)
   - [OTP](#otp)
-- [License](#license)
 
 ## Getting Started
 
